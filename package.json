@@ -1,0 +1,11 @@
+{
+  "name": "swc-web",
+  "private": true,
+  "source": "index.html",
+  "scripts": {
+    "dev": "parcel serve --open"
+  },
+  "devDependencies": {
+    "parcel": "2.9.3"
+  }
+}
