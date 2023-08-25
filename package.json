@@ -2,6 +2,11 @@
   "name": "swc-web",
   "private": true,
   "source": "index.html",
+  "targets": {
+    "default": {
+      "publicUrl": "/swc-wasm-web-span-issue"
+    }
+  },
   "scripts": {
     "dev": "parcel serve --open"
   },
