@@ -8,7 +8,8 @@
     }
   },
   "scripts": {
-    "dev": "parcel serve --open"
+    "dev": "parcel serve --open",
+    "build": "parcel build"
   },
   "devDependencies": {
     "parcel": "2.9.3"
